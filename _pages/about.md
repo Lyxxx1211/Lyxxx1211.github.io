@@ -13,7 +13,7 @@ Hi! I work on AI, survive on instant noodles, and submit papers 3 minutes before
 
 Feel free to reach out if you are interested in collaboration or potential opportunities.
 
-News
+🔥News
 ---------------
 <div class="news-box">
   <ul class="news-list">
@@ -37,7 +37,7 @@ Publications
 <button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'list')">Full Publications List</button>
 
-(* equal contribution · &dagger; corresponding author · &Dagger; project leader)
+<!-- (* equal contribution · &dagger; corresponding author · &Dagger; project leader) -->
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
 
@@ -152,25 +152,15 @@ Projects
 
 Awards
 --------
-- *3026.01*, Successfully survived 17 consecutive paper deadlines without touching grass.
-- *3025.09*, Best Excuse Generation Award, SleepFormer Research Group.
-- *3025.06*, Outstanding Contributor to Instant Noodle Consumption Efficiency.
-- *3024.12*, GPU Emotional Damage Scholarship (Full Funding).
-- *3024.08*, Ranked Top 0.1% Worldwide in “I’ll Fix It Tomorrow”.
+- *2025.09*, Fudan University Doctoral Freshman Scholarship.
+- *2024.09*, Fudan University Master's Academic Scholarship.
+- *2023.09*, Fudan University Master's Freshman Scholarship.
 
 
 
-Services
---------
-- *3026.06 – Present*, Chief Coffee Consumption Officer, Midnight Research Lab.
-- *3026.01 – Present*, Full-time Debugger of Problems Created by Myself.
-- Reviewer for Journal of Unfinished Projects.
-- Area Chair for Conference on Last-Minute Submissions (CLMS).
-- Volunteer Therapist for Burned-out GPUs.
 
 
-
-Talks
+Internships
 --------
 - *3026.07*, “How to Finish a Paper 3 Minutes Before Deadline.”
 - *3026.05*, “Large Language Models and Large Amounts of Caffeine.”
