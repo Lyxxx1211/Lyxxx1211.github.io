@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
+<h1 class="main-heading">Hi, Welcome to my Homepage!</h1>
 
 Hi! I work on AI, survive on instant noodles, and submit papers 3 minutes before deadlines.
 
