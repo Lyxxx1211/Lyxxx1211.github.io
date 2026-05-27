@@ -10,6 +10,7 @@ a#news, a#publications, a#awards, a#internships {
     pointer-events: none;
 }
 #news,
+    #aboutme,
     #experience,
     #publications,
     #projects,
