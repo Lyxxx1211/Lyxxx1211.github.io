@@ -1,7 +1,14 @@
 ﻿@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
-
+a#news, a#publications, a#awards, a#internships {
+    display: block;
+    height: 0;
+    overflow: hidden;
+    margin-top: -80px;
+    padding-top: 80px;
+    pointer-events: none;
+}
 #news,
     #experience,
     #publications,
