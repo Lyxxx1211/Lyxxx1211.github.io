@@ -44,7 +44,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/envision.png" alt="Envision, Attend, Then Respond" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/CVPR_poster.png" alt="Envision, Attend, Then Respond" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
       <strong>Envision, Attend, Then Respond: Counterfactual Hallucination Mitigation in Large Vision-Language Models</strong><br>
@@ -63,7 +63,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/concept_rules.png" alt="Decomposition of Concept-Level Rules" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/ICLR_poster.png" alt="Decomposition of Concept-Level Rules" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
       <strong>Decomposition of Concept-Level Rules in Visual Scenes</strong><br>
@@ -82,7 +82,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/pyramid_pruning.png" alt="Pyramid Token Pruning" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/TCSVT.png" alt="Pyramid Token Pruning" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
       <strong>Pyramid Token Pruning for High-Resolution Large Vision-Language Models via Region, Token, and Instruction-Guided Importance</strong><br>
