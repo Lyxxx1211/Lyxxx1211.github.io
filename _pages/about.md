@@ -128,7 +128,7 @@ Publications
 <script src="assets/js/pub_media_rotator.js"></script>
 
 
-Projects
+<!-- Projects
 --------
 <div class="project-card" data-category="project"> 
   <div style="display: flex; align-items: center;">
@@ -147,7 +147,7 @@ Projects
       <a href=""><em>[code]</em></a> 
     </div>
   </div> 
-</div>
+</div> -->
 
 
 Awards
