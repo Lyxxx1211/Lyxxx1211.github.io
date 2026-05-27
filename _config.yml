@@ -9,13 +9,13 @@ repository               : ""
 
 author:
   avatar           : "1.png"
-  name             : "Your Name"
+  name             : "Yuxuan Liang"
   pronouns         :
-  bio              : "Student and researcher."
-  location         : "City, Country"
-  employer         : "Institution or Company"
+  bio              : "Ph.D. student at Fudan University, advised by Prof. Xiangyang Xue."
+  location         : "Shanghai, China"
+  employer         : "College of Computer Science and Artificial Intelligence, Fudan University"
   uri              :
-  email            : "name@example.com"
+  email            : "yxliang25@m.fudan.edu.cn"
 
   arxiv            :
   googlescholar    :
