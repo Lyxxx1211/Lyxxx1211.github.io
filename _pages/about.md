@@ -32,7 +32,7 @@ I am passionate about building vision-language systems that can better perceive,
 
 
 
-Publications
+📝 Publications
 --------------
 <button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'list')">Full Publications List</button>
@@ -150,7 +150,7 @@ Publications
 </div> -->
 
 
-Awards
+🥇 Awards
 --------
 - *2025.09*, Fudan University Doctoral Freshman Scholarship.
 - *2024.09*, Fudan University Master's Academic Scholarship.
@@ -160,6 +160,6 @@ Awards
 
 
 
-Internships
+💻 Internships
 --------
 - *2023.05 - 2024.09*, Beijing Zhipu Huazhang Technology, Beijing, China
