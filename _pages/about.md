@@ -13,7 +13,7 @@ Hi! I work on AI, survive on instant noodles, and submit papers 3 minutes before
 
 Feel free to reach out if you are interested in collaboration or potential opportunities.
 
-🔥News
+🔥 News
 ---------------
 <div class="news-box">
   <ul class="news-list">
@@ -162,8 +162,4 @@ Awards
 
 Internships
 --------
-- *3026.07*, “How to Finish a Paper 3 Minutes Before Deadline.”
-- *3026.05*, “Large Language Models and Large Amounts of Caffeine.”
-- *3025.11*, “On the Emotional Stability of GPUs Under Extreme Stress.”
-- *3025.08*, “Instant Noodles as Scalable Research Infrastructure.”
-- *3025.03*, “Sleep is Temporary, Camera-Ready is Forever.”
+- *2023.05 - 2024.09*, Beijing Zhipu Huazhang Technology, Beijing, China
