@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD student at Fudan University. My research focuses on reliable and efficient visual reasoning in Large Vision-Language Models, with particular interests in multimodal perception, reasoning, and visual token pruning.
 
-I am passionate about building vision-language systems that can better perceive, reason, and respond in complex visual environments. My recent work explores how to enhance high-resolution visual understanding, improve reasoning ability, and reduce inference costs for Large Vision-Language Models. Feel free to connect with me via email:yxliang2001@gmail.com.
+I am passionate about building vision-language systems that can better perceive, reason, and respond in complex visual environments. My recent work explores how to enhance high-resolution visual understanding, improve reasoning ability, and reduce inference costs for Large Vision-Language Models. Feel free to connect with me via email: yxliang2001@gmail.com.
 
 🔥 News
 ---------------
