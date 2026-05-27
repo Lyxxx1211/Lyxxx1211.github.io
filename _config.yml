@@ -8,7 +8,7 @@ baseurl                  : ""
 repository               : ""
 
 author:
-  avatar           : "my.png"
+  avatar           : "my.jpg"
   name             : "Yuxuan Liang"
   pronouns         :
   bio              : "Ph.D. student at College of Computer Science and Artificial Intelligence, Fudan University, advised by Prof. Xiangyang Xue."
