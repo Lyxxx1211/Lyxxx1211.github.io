@@ -105,6 +105,28 @@ I am passionate about building vision-language systems that can better perceive,
   </div>
 </div>
 
+<div class="publication-card" data-category="all">
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <!-- 请确保替换为你在 images 文件夹中实际的 HERO 宣传图路径 -->
+      <img src="images/hero.png" alt="HERO Token Early Dropping" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+    </div>
+    <div>
+      <strong>HERO: Rethinking Visual Token Early Dropping in High-Resolution Large Vision-Language Models</strong><br>
+      <i style="font-size: 13px;">
+        <strong>Yuxuan Liang</strong>, et al.
+      </i><br>
+      <!-- 请在此处替换为论文的简短重点摘要内容 -->
+      We rethink visual token early dropping in high-resolution Large Vision-Language Models to improve efficiency without sacrificing fine-grained perception capability.
+      <br>
+      <!-- 请替换为你被接收的期刊/会议名称及年份，例如 CVPR 2026 -->
+      <b><i style="color:#83a1c7;">[TMM 2026] &nbsp;</i></b>
+      <a href="#"><em>[arXiv]</em></a>
+      <a href="#"><em>[code]</em></a>
+    </div>
+  </div>
+</div>
+
 </div>
 
 
