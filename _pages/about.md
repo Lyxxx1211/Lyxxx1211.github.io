@@ -151,7 +151,13 @@ I am passionate about building vision-language systems that can better perceive,
       <span class="pub-list-links"><a href="#">[arXiv]</a><a href="#">[code]</a></span>
     </li>
         <li>
-      <span class="pub-list-badge">arXiv</span>
+      <span class="pub-list-badge">TMM 2026</span>
+      <span class="pub-list-title">HERO: Rethinking Visual Token Early Dropping in High-Resolution Large Vision-Language Models</span><br>
+      <span class="pub-list-authors"><strong>Yuxuan Liang</strong>, et al.</span>
+      <span class="pub-list-links"><a href="#">[arXiv]</a></span>
+    </li>
+        <li>
+      <span class="pub-list-badge">PR 2025</span>
       <span class="pub-list-title">Instruction-Guided Fusion of Multi-Layer Visual Features in Large Vision-Language Models</span><br>
       <span class="pub-list-authors"><strong>Yuxuan Liang</strong>, et al.</span>
       <span class="pub-list-links"><a href="#">[arXiv]</a></span>
@@ -168,12 +174,7 @@ I am passionate about building vision-language systems that can better perceive,
       <span class="pub-list-authors"><strong>Yuxuan Liang</strong>, et al.</span>
       <span class="pub-list-links"><a href="#">[arXiv]</a></span>
     </li>
-    <li>
-      <span class="pub-list-badge">arXiv</span>
-      <span class="pub-list-title">HERO: Rethinking Visual Token Early Dropping in High-Resolution Large Vision-Language Models</span><br>
-      <span class="pub-list-authors"><strong>Yuxuan Liang</strong>, et al.</span>
-      <span class="pub-list-links"><a href="#">[arXiv]</a></span>
-    </li>
+
   </ul>
 </div>
 
