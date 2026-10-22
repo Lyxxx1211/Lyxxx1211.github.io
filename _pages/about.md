@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 author_profile: true
 stylesheets:
@@ -14,9 +14,9 @@ redirect_from:
 🧑‍🎓 About me
 ---------------
 
-I am a PhD student at Fudan University. My research focuses on reliable and efficient visual reasoning in Large Vision-Language Models, with particular interests in multimodal perception, reasoning, and visual token pruning.
+I am a PhD student at Fudan University and an intern at ByteDance in Shanghai since August 2026. My research focuses on reliable and efficient visual reasoning in Large Vision-Language Models, with particular interests in multimodal perception, dynamic latent reasoning, and visual token pruning.
 
-I am passionate about building vision-language systems that can better perceive, reason, and respond in complex visual environments. My recent work explores how to enhance high-resolution visual understanding, improve reasoning ability, and reduce inference costs for Large Vision-Language Models. Feel free to connect with me via email: yxliang2001@gmail.com.
+I am passionate about building vision-language systems that can better perceive, reason, and anticipate how visual scenes evolve. My recent work explores how to imagine future visual dynamics in latent space, enhance high-resolution visual understanding, mitigate hallucinations, and reduce inference costs for Large Vision-Language Models. Feel free to connect with me via email: yxliang2001@gmail.com.
 
 <a id="news"></a>
 
@@ -24,6 +24,14 @@ I am passionate about building vision-language systems that can better perceive,
 ---------------
 <div class="news-box">
   <ul class="news-list">
+<li><span class="news-date"><em>2026.09</em></span> 🎉🎉 Our paper "From Seeing to Foreseeing: Unleashing LVLM Thinking in Dynamic Latent Space" has been accepted at NeurIPS 2026. Thanks to all co-authors!</li>
+
+<li><span class="news-date"><em>2026.09</em></span> 🎉🎉 I received the National Scholarship.</li>
+
+<li><span class="news-date"><em>2026.08</em></span> I started my internship at ByteDance in Shanghai, China.</li>
+
+<li><span class="news-date"><em>2026.06</em></span> 🎉🎉 Our paper "HERO: Rethinking Visual Token Early Dropping in High-Resolution Large Vision-Language Models" has been accepted by IEEE Transactions on Multimedia (TMM). Thanks to all co-authors!</li>
+
 <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 Our Work on LVLM Reasoning Hallucination have been accepted by CVPR 2026. Thanks all of the co-authors!</li>
 
 <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 Our Work on LVLM Token Pruning have been accepted by TCSVT 2026. Thanks all of the co-authors!</li>
@@ -47,6 +55,26 @@ I am passionate about building vision-language systems that can better perceive,
 <!-- (* equal contribution · &dagger; corresponding author · &Dagger; project leader) -->
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
+
+<div class="publication-card" data-category="all">
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <a href="images/neurips_poster.pdf" target="_blank" rel="noopener">
+        <img src="images/neurips_poster.png" alt="From Seeing to Foreseeing: Unleashing LVLM Thinking in Dynamic Latent Space" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      </a>
+    </div>
+    <div>
+      <strong>From Seeing to Foreseeing: Unleashing LVLM Thinking in Dynamic Latent Space</strong><br>
+      <i style="font-size: 13px;">
+        <strong>Yuxuan Liang</strong>, et al.
+      </i><br>
+      We introduce DLVR, enabling Large Vision-Language Models to imagine future scene dynamics from static images through compact, temporally grounded latent trajectories. Two-stage supervised fine-tuning and contrastive dynamic latent policy optimization improve visual reasoning through temporal supervision and feedback from real and counterfactual futures.
+      <br>
+      <b><i style="color:#83a1c7;">NeurIPS 2026 &nbsp;</i></b>
+      <a href="images/neurips_poster.pdf" target="_blank" rel="noopener"><em>[Poster]</em></a>
+    </div>
+  </div>
+</div>
 
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
@@ -108,7 +136,6 @@ I am passionate about building vision-language systems that can better perceive,
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <!-- 请确保替换为你在 images 文件夹中实际的 HERO 宣传图路径 -->
       <img src="images/hero.png" alt="HERO Token Early Dropping" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
@@ -116,11 +143,9 @@ I am passionate about building vision-language systems that can better perceive,
       <i style="font-size: 13px;">
         <strong>Yuxuan Liang</strong>, et al.
       </i><br>
-      <!-- 请在此处替换为论文的简短重点摘要内容 -->
-      We rethink visual token early dropping in high-resolution Large Vision-Language Models to improve efficiency without sacrificing fine-grained perception capability.
+      We rethink visual token early dropping in high-resolution Large Vision-Language Models to improve efficiency while preserving fine-grained perception. Accepted by IEEE Transactions on Multimedia in June 2026.
       <br>
-      <!-- 请替换为你被接收的期刊/会议名称及年份，例如 CVPR 2026 -->
-      <b><i style="color:#83a1c7;">[TMM 2026] &nbsp;</i></b>
+      <b><i style="color:#83a1c7;">TMM 2026 &nbsp;</i></b>
       <a href="#"><em>[arXiv]</em></a>
       <a href="#"><em>[code]</em></a>
     </div>
@@ -132,6 +157,12 @@ I am passionate about building vision-language systems that can better perceive,
 
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
+    <li>
+      <span class="pub-list-badge">NeurIPS 2026</span>
+      <span class="pub-list-title">From Seeing to Foreseeing: Unleashing LVLM Thinking in Dynamic Latent Space</span><br>
+      <span class="pub-list-authors"><strong>Yuxuan Liang</strong>, et al.</span>
+      <span class="pub-list-links"><a href="images/neurips_poster.pdf" target="_blank" rel="noopener">[Poster]</a></span>
+    </li>
     <li>
       <span class="pub-list-badge">CVPR 2026</span>
       <span class="pub-list-title">Envision, Attend, Then Respond: Counterfactual Hallucination Mitigation in Large Vision-Language Models</span><br>
@@ -207,6 +238,7 @@ I am passionate about building vision-language systems that can better perceive,
 
 🥇 Awards
 --------
+- *2026.09*, National Scholarship.
 - *2025.09*, Fudan University Doctoral Freshman Scholarship.
 - *2024.09*, Fudan University Master's Academic Scholarship.
 - *2023.09*, Fudan University Master's Freshman Scholarship.
@@ -217,4 +249,5 @@ I am passionate about building vision-language systems that can better perceive,
 
 💻 Internships
 --------
-- *2023.05 - 2024.09*, Beijing Zhipu Huazhang Technology, Beijing, China
+- *2026.08 - Present*, ByteDance, Shanghai, China.
+- *2023.05 - 2024.09*, Beijing Zhipu Huazhang Technology, Beijing, China.

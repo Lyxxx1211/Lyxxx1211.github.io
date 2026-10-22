@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : "Your Name"
-description              : &description "A clean academic homepage template."
+description              : &description "Yuxuan Liang's academic homepage: visual reasoning, dynamic latent reasoning, and efficient large vision-language models."
 url                      : ""
 baseurl                  : ""
 repository               : ""
@@ -11,7 +11,7 @@ author:
   avatar           : "my.jpg"
   name             : "Yuxuan Liang"
   pronouns         :
-  bio              : "Ph.D. student at College of Computer Science and Artificial Intelligence, Fudan University, advised by Prof. Xiangyang Xue."
+  bio              : "Ph.D. student at College of Computer Science and Artificial Intelligence, Fudan University, advised by Prof. Xiangyang Xue. Intern at ByteDance, Shanghai, since August 2026."
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              :
