@@ -26,7 +26,7 @@ I am passionate about building vision-language systems that can better perceive,
   <ul class="news-list">
 <li><span class="news-date"><em>2026.09</em></span> 🎉🎉 Our paper "From Seeing to Foreseeing: Unleashing LVLM Thinking in Dynamic Latent Space" has been accepted at NeurIPS 2026. Thanks to all co-authors!</li>
 
-<li><span class="news-date"><em>2026.09</em></span> 🎉🎉 I received the National Scholarship.</li>
+<li><span class="news-date"><em>2026.09</em></span> 🎉🎉 I received the China National Scholarship for Doctoral Students.</li>
 
 <li><span class="news-date"><em>2026.08</em></span> I started my internship at ByteDance in Shanghai, China.</li>
 
@@ -238,7 +238,7 @@ I am passionate about building vision-language systems that can better perceive,
 
 🥇 Awards
 --------
-- *2026.09*, National Scholarship.
+- *2026.09*, China National Scholarship for Doctoral Students.
 - *2025.09*, Fudan University Doctoral Freshman Scholarship.
 - *2024.09*, Fudan University Master's Academic Scholarship.
 - *2023.09*, Fudan University Master's Freshman Scholarship.
